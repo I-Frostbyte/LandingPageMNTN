@@ -87,8 +87,9 @@ Section {
 }
 
 .newDiv {
-    font-size: small;
+    font-size:small;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-weight: bold; */
 }
 
 .secondDiv{
@@ -101,7 +102,7 @@ Section {
 
 .wrapperSection {
     background-image: linear-gradient(to top, darkgreen, darkgreen, green, green, green, transparent);
-    background-color:;
+    /* background-color:; */
 }
 
 .bottomnav{
