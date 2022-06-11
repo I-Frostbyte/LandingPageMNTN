@@ -109,12 +109,22 @@ Section {
     display: flex;
 }
 
+.MNTNFooter {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bolder;
+    margin-left: 40px;
+    padding-bottom: -2px;
+    /* padding-left: 50%; */
+}
+
+
 
 .moreOnTheBlog{
     margin: 0 auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-weight: 700;
     font-size: small;
+    padding-left: 50%;
 }
 
 .moreOnTheBlog p{
